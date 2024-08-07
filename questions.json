@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Emily has a total of $64.800 to spend on apples. If apples are priced at $7 per kilogram, how many kilograms of apples can Emily purchase?",
+    "options": ["9.357 kg", "9.257 kg", "8.357 kg", "8.257 kg"],
+    "correct": 1
+  },
+  {
+    "question": "Mr. Davis has a total of 2,052.8 litres of orange juice. If each container holds 8 litres, how many containers can Mr. Davis fill?",
+    "options": ["346.6", "256.6", "25.66", "35.64"],
+    "correct": 1
+  },
+  {
+    "question": "James has 142.5 litres of apple juice in total. If he pours the juice equally into 5 bottles, how many litres of apple juice does each bottle contain?",
+    "options": ["28.5 litres", "28.6 litres", "29.5 litres", "29.6 litres"],
+    "correct": 0
+  },
+  {
+    "question": "Emily has 43.638 kilograms of flour. If she wants to divide the flour equally into bags, with each bag holding 6 kilograms, how many bags can she fill?",
+    "options": ["7.263", "8.274", "7.273", "8.264"],
+    "correct": 2
+  },
+  {
+    "question": "Olivia has ordered 5.8492 kilograms of rice from the store. If she divides the rice equally into bags, with each bag holding 5 kilograms, how many bags does she fill?",
+    "options": ["1.1698", "1.1849", "1.2924", "1.9246"],
+    "correct": 0
+  },
+  {
+    "question": "Daniel asks Emily to divide a 4.65-kilogram watermelon into 2 equal parts. How many kilograms does each part weigh?",
+    "options": ["1.825 kilograms", "2.325 kilograms", "2.375 kilograms", "2.825 kilograms"],
+    "correct": 1
+  },
+  {
+    "question": "Sarah bought a total of 17.28 metres of fabric for a sewing project from the store. If she plans to divide the fabric equally among 8 rolls, how many metres of fabric will each roll contain?",
+    "options": ["2.08 metres", "2.16 metres", "2.24 metres", "2.32 metres"],
+    "correct": 1
+  },
+  {
+    "question": "Mr. Davis was doing calculations with Emily. He asked her to divide 1050.256 by 50. What do you think Emily would have answered among the given options?",
+    "options": ["11.00612", "31.00512", "41.00612", "21.00512"],
+    "correct": 3
+  },
+  {
+    "question": "Mr. Davis receives an amount of 2867.18 dollars for an order. He wants to divide this amount by 100. What will be the total amount left with him after dividing by 100?",
+    "options": ["2867.18 dollars", "2867.18 dollars", "28.6718 dollars", "286.718 dollars"],
+    "correct": 2
+  },
+  {
+    "question": "Jack spent $518.75 on 100 packets of nuts of the same price. What is the cost of one packet of nuts?",
+    "options": ["$51.875", "$5.1875", "$518.75", "$5187.5"],
+    "correct": 1
+  },
+  {
+    "question": "Mr. Davis, asked both Emily and Jack to give the exact answer for 350.2 ÷ 0.4",
+    "options": ["685.5", "875.5", "775.5", "595.5"],
+    "correct": 1
+  },
+  {
+    "question": "One of the customers, Mr. Thompson needs to divide the total purchase cost of $28.5376 among 3.64 parts. What will be the correct answer to this division?",
+    "options": ["6.62", "7.72", "6.84", "7.84"],
+    "correct": 3
+  },
+  {
+    "question": "Mr. Davis was doing some calculations at the store in which he was dividing 123.45 by 1.5. While calculating he got stuck in finding the result. Can you help him by finding the correct answer?",
+    "options": ["82.1", "82.3", "72.1", "72.3"],
+    "correct": 1
+  },
+  {
+    "question": "Jack wanted to calculate 1.152 ÷ 1.92. What is the result of this calculation?",
+    "options": ["0.6", "0.06", "0.7", "0.07"],
+    "correct": 0
+  },
+  {
+    "question": "Mr. Davis saved $45.60 to buy a skateboard for Jack. If one skateboard costs $19.20, how many skateboards can he buy with this savings?",
+    "options": ["3", "5", "7", "4"],
+    "correct": 3
+  },
+  {
+    "question": "Mr. Davis challenged them to find the missing number in the below division:",
+    "options": ["34", "35", "25", "21"],
+    "correct": 1,
+    "img": "./assests/images/16.jpg"
+  },
+  {
+    "question": "Emily asked Mr. Davis what will come in place of “?” in the below division of decimals sum:",
+    "options": ["6", "5", "4", "9"],
+    "correct": 1,
+    "img": "./assests/images/17.jpg"
+  },
+  {
+    "question": "In the below long division of decimals, Emily and Jake were asked to find the missing number in place of “?”. ",
+    "options": ["4", "7", "5", "6"],
+    "correct": 3,
+    "img": "./assests/images/18.jpg"
+  },
+  {
+    "question": "Mr. Davis quoted the question of long division of decimals in which one number was missing. Emily answered the missing number as ‘8’ and Jake answered the missing number as ‘6 ‘. Whose answer was correct?",
+    "options": ["Emily", "Jake"],
+    "correct": 0,
+    "img": "./assests/images/19.jpg"
+  },
+  {
+    "question": "Me. Davis told them the one who found the missing number quickly and correctly would be given a cycle as a reward. What do you think would be the right answer to this question?",
+    "options": ["8", "5", "2", "1"],
+    "correct": 2,
+    "img": "./assests/images/20.jpg"
+  }
+]
